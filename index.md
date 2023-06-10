@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by Juhee Lee (https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz.
+Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz.
 <br>
 <br>
 [Curriculum Vitae](http://hsaijo.github.io/files/hikaru_saijo_cv.pdf)
