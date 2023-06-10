@@ -12,10 +12,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## Working Papers
 
-* **Volatility Shocks in Networks (Revised version coming soon)**
-
-  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
-
+  •	Zhang, S.*, Shen Y., Chen I. and Lee, J. Bayesian phylogenetic tree informed Factor Model for Count Tables Data (In progress)
 
 ## Publications
 
