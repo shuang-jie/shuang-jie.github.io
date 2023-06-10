@@ -11,19 +11,21 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 [Curriculum Vitae](https://github.com/Zsj950708/Zsj950708.github.io/blob/main/files/cv_1.pdf)
 
 ## Working Papers
-•	Zheng, H., Zhang, S.*, Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
+* Zheng, H., Zhang, S.*, Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
 
 - To be presented at JSM 2023
       
-•	Zhang, S.*, Shen Y., Chen I. and Lee, J. Bayesian phylogenetic tree informed Factor Model for Count Tables Data (In progress)
+* Zhang, S.*, Shen Y., Chen I. and Lee, J. Bayesian phylogenetic tree informed Factor Model for Count Tables Data (In progress)
 
-•	Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data (submitted) - To be presented at JSM 2023
+* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data (submitted) 
+
+- To be presented at JSM 2023
 
 
 
 ## Publications
 
-•	Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) Bayesian Sparse Multivariate Regression with Asymmetric Nonlocal Priors for Microbiome Data Analysis (To appear in The Annals of Applied Statistics: https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/53807?confirm=b0ebfd8f)
+* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) Bayesian Sparse Multivariate Regression with Asymmetric Nonlocal Priors for Microbiome Data Analysis (To appear in The Annals of Applied Statistics: https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/53807?confirm=b0ebfd8f)
 - Presented at O’ Bayes 2022 
 
 
