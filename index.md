@@ -25,7 +25,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## Publications
 
-* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) Bayesian Sparse Multivariate Regression with Asymmetric Nonlocal Priors for Microbiome Data Analysis (To appear in The Annals of Applied Statistics: https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/53807?confirm=b0ebfd8f)
+* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) [Bayesian Sparse Multivariate Regression with Asymmetric Nonlocal Priors for Microbiome Data Analysis](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/53807?confirm=b0ebfd8f) (To appear in The Annals of Applied Statistics)
 ** Presented at O’ Bayes 2022 
 
 
