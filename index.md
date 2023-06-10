@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz. Before joining UCSC, I completed my MS degree in Statistics at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
+Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz (expected graduation 2024). Before joining UCSC, I completed my MS degree in Statistics at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
 - Bayesian high-dimensional modeling
 - Multivariate count table with application to microbiome study and ecological study. 
 - Bayesian density regression with discontinuity
