@@ -1,0 +1,13 @@
+title: Hikaru Saijo
+position: Associate Professor of Economics
+affiliation: UC Santa Cruz
+email: hsaijo (at) ucsc.edu
+email2: hikaru.saijo (at) gmail.com
+keywords: minimal academic
+avatar: ./assets/img/hsaijo.jpg
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
