@@ -5,7 +5,14 @@ layout: homepage
 Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz.
 <br>
 <br>
-[Curriculum Vitae](http://hsaijo.github.io/files/hikaru_saijo_cv.pdf)
+[Curriculum Vitae](http://hsaijo.github.io/files/cv_1.pdf)
+
+## Working Papers
+
+* **Volatility Shocks in Networks (Revised version coming soon)**
+
+  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
+
 
 ## Publications
 
@@ -61,11 +68,6 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
   
   The increase in markups due to cartelization can explain a substantial fraction of Japan's weak recovery from the Great Depression.
   
-## Working Papers
-
-* **Volatility Shocks in Networks (Revised version coming soon)**
-
-  I show how sector-specific changes in volatility propagate through input-output networks and affect macroeconomic variables.
 
 
 ## Discussions
