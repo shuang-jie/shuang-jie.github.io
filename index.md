@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz (expected graduation 2024). Before joining UCSC, I completed my MS degree in Statistics at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
+Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz (expected graduation 2024). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
 - Bayesian high-dimensional modeling
 - Multivariate count table with application to microbiome study and ecological study. 
 - Bayesian density regression with discontinuity
@@ -12,7 +12,10 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 
 ## Working Papers
-* Zheng, H., Zhang, S.*, Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
+* Zhang, S.*, Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress) 
+
+
+* Zheng, H.*, Zhang, S.\*, Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
 
    To be presented at JSM 2023
 
@@ -24,7 +27,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## Publications
 
-* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) [Bayesian Sparse Multivariate Regression with Asymmetric Nonlocal Priors for Microbiome Data Analysis](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/53807?confirm=b0ebfd8f) (To appear in The Annals of Applied Statistics)
+* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/53807?confirm=b0ebfd8f) (To appear in The Annals of Applied Statistics)
 
    Presented at O’ Bayes 2022 
 
