@@ -12,14 +12,14 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 
 ## Working Papers
-* Zhang, S.*, Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress) 
+* Zhang, S., Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress) 
 
 
-* Zheng, H.*, Zhang, S.\*, Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
+* Zheng, H., Zhang, S., Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
 
    To be presented at JSM 2023
 
-* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (submitted) 
+* Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (submitted) 
 
    To be presented at JSM 2023
 
@@ -27,7 +27,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## Publications
 
-* Zhang, S.*, Shen Y., Chen I. and Lee, J. (2023+) [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://shuang-jie.github.io/files/SJ-P1.pdf) (To appear in The Annals of Applied Statistics)
+* Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://shuang-jie.github.io/files/SJ-P1.pdf) (To appear in The Annals of Applied Statistics)
 
    Presented at O’ Bayes 2022 
 
