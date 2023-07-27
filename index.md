@@ -38,11 +38,6 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 * Zi-MLN:  R code for Bayesian Sparse Multivariate Regression with Asymmetric Nonlocal Priors for Microbiome Data Analysis.  (https://github.com/Zsj950708/ZI-MLN)
 
-## SERVICE
-
-* Peer-Reviewer for article submitted to Computational Statistics & Data Analysis. 2022
-
-
 ## AWARD & FELLOWSHIP
 * SFASA JSM Student Travel Award. 2023
 * UCSC Dean’s Travel Award. 2023
