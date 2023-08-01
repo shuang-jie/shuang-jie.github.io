@@ -34,9 +34,9 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## SOFTWARE
 
-* Sp-BGFM: R package in preparation for Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data. (https://github.com/Zsj950708/SP-BGFM)
+* Sp-BGFM: R package (in preparation) for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/Zsj950708/SP-BGFM) in paper Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data. 
 
-* Zi-MLN:  R code for Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study. [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/Zsj950708/ZI-MLN)
+* Zi-MLN:  R code for [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/Zsj950708/ZI-MLN) in paper Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study. 
 
 ## AWARD & FELLOWSHIP
 * SFASA JSM Student Travel Award. 2023
