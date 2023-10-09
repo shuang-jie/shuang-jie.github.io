@@ -17,11 +17,11 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 * Zheng, H., Zhang, S., Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
 
-   To be presented at JSM 2023
+   Presented at JSM 2023
 
 * Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (submitted) 
 
-   To be presented at JSM 2023
+   Presented at JSM 2023
 
 
 
