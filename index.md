@@ -27,7 +27,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## Publications
 
-* Zhang, S., Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study]([https://shuang-jie.github.io/files/SJ-P1.pdf](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
+* Zhang, S., Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
 
    Presented at O’ Bayes 2022 
 
