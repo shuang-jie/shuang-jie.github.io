@@ -12,15 +12,15 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## PREPRINTS
 
-* Zhang, S., Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
+* **Zhang, S.**, Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
-* Zheng, H., Zhang, S., Tokdar S. [Bayesian Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-BD1.pdf) (Submitting to Journal of Business & Economic Statistics)
+* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. [Bayesian Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-BD1.pdf) (Submitting to Journal of Business & Economic Statistics)
 
 * Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision of Journal of the American Statistical Association) 
 
 ## PUBLICATIONS
 
-* Zhang, S., Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
+* **Zhang, S.**, Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
 
 ## PRESENTATIONS
 
