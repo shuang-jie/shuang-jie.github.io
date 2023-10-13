@@ -10,27 +10,22 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 <br>
 [Curriculum Vitae](https://shuang-jie.github.io/files/cv_1.pdf)
 
+## PREPRINTS
 
-## Working Papers
-* Zhang, S., Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress) 
+* Zhang, S., Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
+* Zheng, H., Zhang, S., Tokdar S. Bayesian Density Regression with Discontinuity (Submitting to Journal of Business & Economic Statistics)
 
-* Zheng, H., Zhang, S., Tokdar S. Bayesian Density Regression with Discontinuity (In progress) 
+* Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision of Journal of the American Statistical Association) 
 
-   Presented at JSM 2023
-
-* Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (submitted) 
-
-   Presented at JSM 2023
-
-
-
-## Publications
+## PUBLICATIONS
 
 * Zhang, S., Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
 
-   Presented at O’ Bayes 2022 
+## PRESENTATIONS
 
+* Joint Statistical Meetings, Toronto, Canada, 2023
+* Objective Bayes, Santa Cruz, CA, 2022
 
 ## SOFTWARE
 
@@ -39,11 +34,13 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 * Zi-MLN:  R code for [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/Zsj950708/ZI-MLN) in paper Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study. 
 
 ## AWARD & FELLOWSHIP
-* SFASA JSM Student Travel Award. 2023
-* UCSC Dean’s Travel Award. 2023
-* UCSC Department Summer Fellowship. 2022
-* UCSC Regent Fellowship. 2020
-* National Student Scholarship. 2015
+
+•	SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2023
+•	UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
+•	Department Summer Fellowship, University of California Santa Cruz, 2022
+•	UCSC Regent Fellowship, University of California Santa Cruz, 2020
+•	National Student Scholarship, Southwestern University of Finance and Economics, 2015
+
  
 ## TEACHING EXPERIENCE
 
