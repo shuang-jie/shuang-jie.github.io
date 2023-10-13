@@ -14,7 +14,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 * Zhang, S., Lee, J. Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
-* Zheng, H., Zhang, S., Tokdar S. Bayesian Density Regression with Discontinuity (Submitting to Journal of Business & Economic Statistics)
+* Zheng, H., Zhang, S., Tokdar S. [Bayesian Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-BD1.pdf) (Submitting to Journal of Business & Economic Statistics)
 
 * Zhang, S., Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision of Journal of the American Statistical Association) 
 
