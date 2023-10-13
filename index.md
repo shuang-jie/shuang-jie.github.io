@@ -8,7 +8,7 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 - Bayesian density regression with discontinuity
 <br>
 <br>
-[Curriculum Vitae](https://shuang-jie.github.io/files/cv_1.pdf)
+[Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
 
 ## PREPRINTS
 
