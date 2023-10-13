@@ -35,11 +35,11 @@ Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee
 
 ## AWARD & FELLOWSHIP
 
-•	SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2023
-•	UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
-•	Department Summer Fellowship, University of California Santa Cruz, 2022
-•	UCSC Regent Fellowship, University of California Santa Cruz, 2020
-•	National Student Scholarship, Southwestern University of Finance and Economics, 2015
+* SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2023
+* UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
+* Department Summer Fellowship, University of California Santa Cruz, 2022
+* UCSC Regent Fellowship, University of California Santa Cruz, 2020
+* National Student Scholarship, Southwestern University of Finance and Economics, 2015
 
  
 ## TEACHING EXPERIENCE
@@ -52,8 +52,14 @@ Graduate Teaching Assistant:
 
 Graduate Student Researcher
 * Fall 2020, Winter 2021, Spring 2021, Summer 2021, Winter 2022
+  
+## COMPUTER SKILLS 
 
+* R, Rc++, Python, Latex
 
+## CONTRIBUTIONS TO SCIENTIFIC COMMUNITY
+* Invited-reviewer for article submitted to Computational Statistics & Data Analysis. 2022
+* Professional membership for International Society for Bayesian Analysis (ISBA) and American Statistical Association (ASA)
 
 
 
