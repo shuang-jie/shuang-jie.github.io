@@ -2,10 +2,12 @@
 layout: homepage
 ---
 
-Welcome! I am currenly a Ph.D. candidate in Statistics surpervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0) at University of California Santa Cruz (expected graduation 2024). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
-- Bayesian high-dimensional modeling
-- Bayesian nonparametric 
-- Applciation to Multivariate count table from microbiome study and ecological study
+Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) advised by [Yang Ni](https://nystat.github.io/yni/). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
+
+- 1. Bayesian high-dimensional modeling
+- 2. Bayesian nonparametric
+- 3. Bayesian shrinkage prior 
+- 4. Application to biological data
 <br>
 <br>
 [Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
