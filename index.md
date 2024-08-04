@@ -18,7 +18,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 * Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Density Regression with Discontinuity (In progress)
 
-* **Zhang, S.**, Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision of Journal of the American Statistical Association) 
+* **Zhang, S.**, Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision of Journal of the American Statistical Association: Application and Case Studies) 
 
 ## PUBLICATIONS
 
