@@ -2,8 +2,8 @@
 layout: homepage
 ---
 
-## Welcome to another page
+## Travel ;)
 
-_yay_
+
 
 [back](./)
