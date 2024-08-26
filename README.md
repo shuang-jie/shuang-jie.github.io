@@ -1,139 +1,64 @@
-# The Minimal Light Theme
+---
+layout: homepage
+---
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
-[![gem](https://img.shields.io/gem/v/minimal-light?style=flat-square&logo=rubygems&color=E9573F)](https://rubygems.org/gems/minimal-light)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square&logo=jekyll)](https://jekyllrb.com/)
-[![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square&logo=travis-ci&color=3EAAAF)](https://travis-ci.com/yaoyao-liu/minimal-light)
+Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) advised by [Yang Ni](https://nystat.github.io/yni/). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
 
-\[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
- 
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+- Bayesian high-dimensional modeling
+- Bayesian nonparametric
+- Shrinkage prior 
+- Application to biological data
 <br>
-*Feel free to use and share the source code anywhere you like.*
+<br>
+[Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
 
-## Features
+## PREPRINTS
 
-- Simple and elegant personal homepage theme
-- Jekyll theme, deploy automatically by GitHub pages
-- Basic Search Engine Optimization
-- Mobile friendly
-- Support Markdown 
-- Support dark mode
+* **Zhang, S.**, Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
-## Usage
+* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Density Regression with Discontinuity (In progress)
 
-### Using on GitHub 
+* **Zhang, S.**, Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision) 
 
-To use this theme, add the following to your repository's `_config.yml`:
+## PUBLICATIONS
 
-```yaml
-remote_theme: yaoyao-liu/minimal-light
-```
+* **Zhang, S.**, Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
 
-Please note that adding the above line will directly apply all the default settings in this repository to yours.
+## PRESENTATIONS
 
-If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
+* 2024 Joint Statistical Meetings, Oregon, US, 2024
+* 2023 Joint Statistical Meetings, Toronto, Canada, 2023
+* Objective Bayes, Santa Cruz, CA, 2022
 
-You may also fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
+## SOFTWARE
 
-Then you need to enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+* Sp-BGFM: R package (in preparation) for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/Zsj950708/SP-BGFM). 
 
-#### Using a custom domain on GitHub
+* Zi-MLN:  R code for [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/Zsj950708/ZI-MLN) in paper Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study. 
 
-Add a `CNAME` DNS record to your domain as follows:
-```
-Host: whatever you want. e.g., "www" 
-Target / Canonical name: your-username.github.io.
-TTL: 10 min
-```
-You may also add an `A` DNS record instead of the `CNAME` record as follows:
-```
-Host: whatever you want. e.g., "www" or "@"
-IP: 185.199.108.153
-    185.199.109.153
-    185.199.110.153
-    185.199.111.153
-TTL: 10 min
-```
+## AWARD & FELLOWSHIP
 
-Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
+* SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2023
+* UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
+* Department Summer Fellowship, University of California Santa Cruz, 2022
+* UCSC Regent Fellowship, University of California Santa Cruz, 2020
+* National Student Scholarship, Southwestern University of Finance and Economics, 2015
 
-### Using Locally with Jekyll
+ 
+## TEACHING EXPERIENCE
 
-*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
+Graduate Teaching Assistant:
+* STA601 Bayesian Methods and Modern Statistics – Duke University – Fall 2018
+* STAT 5 Statistics – UCSC – Fall 2019, Winter 2020, Summer 2020-01, Fall 2021, Spring 2022,Summer 2022-01
+* STAT 131 Introduction to Probability Theory – UCSC – Summer 2022-02, Spring 2023
+* STAT 132 Classical and Bayesian Inference – UCSC – Winter 2023
+  
+## CONTRIBUTIONS TO SCIENTIFIC COMMUNITY
+* Invited reviewer for an article submitted to Computational Statistics & Data Analysis. 2022
+* Professional membership for the International Society for Bayesian Analysis (ISBA) and American Statistical Association (ASA)
 
-Clone this repository:
+## MISC
+My free time is mostly split among restful swimming, watching tennis(fan of Novak Djokovic), and playing chess. I played chess since I was 6, and obtained level of Candidate Master before 10. I regularly play chess online to have a mind 'spa'. I also like traveling, and some great landscapes are [here](./another-page.html).  
 
-```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
-```
-Install and run:
 
-```bash
-bundle install
-bundle exec jekyll server
-```
-View the live page using `localhost`:
-<http://localhost:4000>. You can get the html files in `_site` folder.
 
-## Customizing
-
-### Configuration variables
-
-The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
-
-  ```yaml
-title: Your Name
-affiliation: Your Affiliation
-email: yourname (at) example.edu
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
-  ```
-### Editing `index.md`
-
-Create `index.md` and add your personal information (e.g. publications, research).
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. [Copy the original template](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/homepage.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
-
-## License
-
-This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
-
-## Acknowledgements
-
-Our project uses the source code from the following repositories:
-
-* [pages-themes/minimal](https://github.com/pages-themes/minimal)
-
-* [orderedlist/minimal](https://github.com/orderedlist/minimal)
