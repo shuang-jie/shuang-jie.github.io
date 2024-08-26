@@ -5,6 +5,6 @@ layout: homepage
 ## Travel ;)
 
 
-![SJ](https://shuang-jie.github.io/assets/img/Shuangjie-Zhang.jpg)
+![PT](https://shuang-jie.github.io/assets/img/Portland1.HEIC)
 
 [back](./)
