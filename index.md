@@ -12,6 +12,8 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 <br>
 [Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
 
+Test [Link to another page](./another-page.html).
+
 ## PREPRINTS
 
 * **Zhang, S.**, Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
