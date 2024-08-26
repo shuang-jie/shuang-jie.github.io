@@ -12,8 +12,6 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 <br>
 [Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
 
-Test [Link to another page](./another-page.html).
-
 ## PREPRINTS
 
 * **Zhang, S.**, Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
@@ -59,7 +57,8 @@ Graduate Teaching Assistant:
 * Invited reviewer for an article submitted to Computational Statistics & Data Analysis. 2022
 * Professional membership for the International Society for Bayesian Analysis (ISBA) and American Statistical Association (ASA)
 
-
+## MISC
+My free time is mostly split among restful swimming, watching tennis(fan of Novak Djokovic), and playing chess. I played chess since I was 6, and obtained level of Candidate Master before 10. I regularly play chess online to have a mind 'spa'. I also like traveling, and some great landscapes are [here](./another-page.html).  
 
 
 
