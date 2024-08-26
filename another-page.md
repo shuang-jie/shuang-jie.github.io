@@ -4,6 +4,6 @@ layout: homepage
 
 ## Travel ;)
 
-![Octocat](https://github.com/shuang-jie/shuang-jie.github.io/blob/main/assets/img/Shuangjie%20Zhang.jpg)
+![SJ](https://shuang-jie.github.io/assets/img/Shuangjie Zhang.jpg)
 
 [back](./)
