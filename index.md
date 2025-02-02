@@ -33,7 +33,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 ## SOFTWARE
 
-* Sp-BGFM: R package (in preparation) for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/Zsj950708/SP-BGFM). 
+* Sp-BGFM: R code for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/Zsj950708/SP-BGFM). 
 
 * Zi-MLN:  R code for [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/Zsj950708/ZI-MLN) in paper Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study. 
 
