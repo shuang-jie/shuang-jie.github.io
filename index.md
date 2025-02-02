@@ -29,7 +29,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 * University of Nebraska–Lincoln, Nov, 2024
 * TAMU Stat Cafe, College Station, Sep, 2024
 * 2024 Joint Statistical Meetings, Oregon, US, Aug, 2024
-* * ISBA Biopharm Section, Online, July, 2024
+* ISBA Biopharm Section, Online, July, 2024
 * 2023 Joint Statistical Meetings, Toronto, Canada, Aug, 2023
 * Objective Bayes, Santa Cruz, CA, Sep, 2022
 
