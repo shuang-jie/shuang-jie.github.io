@@ -25,11 +25,13 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
   
 * **Zhang, S.**, Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2449721?src=exp-la) (Journal of the American Statistical Association 2024+) 
 
-## PRESENTATIONS
-
-* 2024 Joint Statistical Meetings, Oregon, US, 2024
-* 2023 Joint Statistical Meetings, Toronto, Canada, 2023
-* Objective Bayes, Santa Cruz, CA, 2022
+## PRESENTATIONS AND TALKS
+* University of Nebraska–Lincoln, Nov, 2024
+* TAMU Stat Cafe, College Station, Sep, 2024
+* ISBA Biopharm Section, Online, July, 2024
+* 2024 Joint Statistical Meetings, Oregon, US, Aug, 2024
+* 2023 Joint Statistical Meetings, Toronto, Canada, Aug, 2023
+* Objective Bayes, Santa Cruz, CA, Sep, 2022
 
 ## SOFTWARE
 
