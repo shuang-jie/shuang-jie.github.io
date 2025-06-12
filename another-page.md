@@ -4,7 +4,7 @@ layout: homepage
 
 ## Travel ;)
 
-Please open it in Safari on mac. 
+### Please open it in Safari on mac. 
 
 
 ![PT](../assets/img/IMG_6202.heic)
