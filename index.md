@@ -62,7 +62,7 @@ Graduate Teaching Assistant:
 * STAT 132 Classical and Bayesian Inference – UCSC – Winter 2023
   
 ## CONTRIBUTIONS TO SCIENTIFIC COMMUNITY
-* Invited reviewer for an article submitted to Computational Statistics & Data Analysis. 2022
+* Invited reviewer for journals: Computational Statistics & Data Analysis, Biostatistics.
 * Professional membership for the International Society for Bayesian Analysis (ISBA) and American Statistical Association (ASA)
 
 ## MISC
