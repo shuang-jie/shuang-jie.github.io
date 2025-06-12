@@ -13,7 +13,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 ## PREPRINTS
 
-* **Zhang, S.**, Yang, N and Bani, M. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
+* **Zhang, S.**, Yang, N and Bani, K. M. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
 
 * Tokdar S, Sen R., Zheng, H. and **Zhang, S.**, . Density Discontinuity Regression (In progress)
 
