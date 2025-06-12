@@ -10,13 +10,16 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 - Application to biological data
 <br>
 <br>
-[Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
 
 ## PREPRINTS
 
+* **Zhang, S.**, Yang, N and Bani, M. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
+
+* Tokdar S, Sen R., Zheng, H. and **Zhang, S.**, . Density Discontinuity Regression (In progress)
+
 * **Zhang, S.**, Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
-* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Density Regression with Discontinuity (In progress)
+* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Semi-Parametric Density Regression with Discontinuity (In progress)
 
 
 ## PUBLICATIONS
