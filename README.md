@@ -2,37 +2,45 @@
 layout: homepage
 ---
 
-Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) advised by [Yang Ni](https://nystat.github.io/yni/). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
+Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) working with [Yang Ni](https://nystat.github.io/yni/) and [Bani K. Mallick](https://sites.google.com/tamu.edu/bani-k-mallick/bio). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University. I’m currently working on
 
 - Bayesian high-dimensional modeling
-- Bayesian nonparametric
-- Shrinkage prior 
+- Causal Discovery
+- Bayesian nonparametric modeling
 - Application to biological data
 <br>
 <br>
-[Curriculum Vitae](https://shuang-jie.github.io/files/Cv.pdf)
 
 ## PREPRINTS
 
+* **Zhang, S.**, Yang, N and Bani, K. M. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
+
+* Tokdar S, Sen R., Zheng, H. and **Zhang, S.**, . Density Discontinuity Regression (In progress)
+
 * **Zhang, S.**, Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
-* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Density Regression with Discontinuity (In progress)
+* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Semi-Parametric Density Regression with Discontinuity (In progress)
 
-* **Zhang, S.**, Shen Y., Chen I. and Lee, J. (2023+) [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://shuang-jie.github.io/files/SJ-P2.pdf) (Under revision) 
 
 ## PUBLICATIONS
 
 * **Zhang, S.**, Shen Y., Chen I. and Lee, J. [Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Bayesian-modeling-of-interaction-between-features-in-sparse-multivariate-count/10.1214/22-AOAS1690.full) (The Annals of Applied Statistics 17.3 (2023): 1861-1883.)
+  
+* **Zhang, S.**, Shen Y., Chen I. and Lee, J. [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2449721?src=exp-la) (Journal of the American Statistical Association 2024+) 
 
-## PRESENTATIONS
-
-* 2024 Joint Statistical Meetings, Oregon, US, 2024
-* 2023 Joint Statistical Meetings, Toronto, Canada, 2023
-* Objective Bayes, Santa Cruz, CA, 2022
+## PRESENTATIONS AND TALKS
+* BNP 14 UCLA, June, 2025 (Poster)
+* IISA Conference, June, 2025
+* University of Nebraska–Lincoln, Nov, 2024
+* TAMU Stat Cafe, College Station, Sep, 2024
+* 2024 Joint Statistical Meetings, Oregon, US, Aug, 2024
+* ISBA Biopharm Section, Online, July, 2024
+* 2023 Joint Statistical Meetings, Toronto, Canada, Aug, 2023
+* Objective Bayes, Santa Cruz, CA, Sep, 2022  (Poster)
 
 ## SOFTWARE
 
-* Sp-BGFM: R package (in preparation) for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/Zsj950708/SP-BGFM). 
+* Sp-BGFM: R code for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/Zsj950708/SP-BGFM). 
 
 * Zi-MLN:  R code for [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/Zsj950708/ZI-MLN) in paper Bayesian Modeling of Interaction between Features in Sparse Multivariate Count Data with Application to Microbiome Study. 
 
@@ -54,7 +62,7 @@ Graduate Teaching Assistant:
 * STAT 132 Classical and Bayesian Inference – UCSC – Winter 2023
   
 ## CONTRIBUTIONS TO SCIENTIFIC COMMUNITY
-* Invited reviewer for an article submitted to Computational Statistics & Data Analysis. 2022
+* Invited reviewer for journals: Computational Statistics & Data Analysis, Biostatistics.
 * Professional membership for the International Society for Bayesian Analysis (ISBA) and American Statistical Association (ASA)
 
 ## MISC
