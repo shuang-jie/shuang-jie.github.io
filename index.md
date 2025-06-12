@@ -2,9 +2,10 @@
 layout: homepage
 ---
 
-Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) working with [Yang Ni](https://nystat.github.io/yni/) and [Bani K. Mallick](https://sites.google.com/tamu.edu/bani-k-mallick/bio). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University advised by [Surya T. Tokdar](http://www2.stat.duke.edu/~st118/). I’m currently working on
+Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) working with [Yang Ni](https://nystat.github.io/yni/) and [Bani K. Mallick](https://sites.google.com/tamu.edu/bani-k-mallick/bio). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at Duke University. I’m currently working on
 
 - Bayesian high-dimensional modeling
+- Causal Discovery
 - Bayesian nonparametric modeling
 - Application to biological data
 <br>
@@ -28,12 +29,14 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 * **Zhang, S.**, Shen Y., Chen I. and Lee, J. [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2449721?src=exp-la) (Journal of the American Statistical Association 2024+) 
 
 ## PRESENTATIONS AND TALKS
+* BNP 14 UCLA, June, 2025 (Poster)
+* IISA Conference, June, 2025
 * University of Nebraska–Lincoln, Nov, 2024
 * TAMU Stat Cafe, College Station, Sep, 2024
 * 2024 Joint Statistical Meetings, Oregon, US, Aug, 2024
 * ISBA Biopharm Section, Online, July, 2024
 * 2023 Joint Statistical Meetings, Toronto, Canada, Aug, 2023
-* Objective Bayes, Santa Cruz, CA, Sep, 2022
+* Objective Bayes, Santa Cruz, CA, Sep, 2022  (Poster)
 
 ## SOFTWARE
 
