@@ -13,13 +13,15 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 ## PREPRINTS
 
-* **Zhang, S.**, Yang, N and Bani, K. M. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
+* Ok S., **Zhang S.** and Ni, Y. Bayesian Longitudinal Mircobiome Interaction Analysis (In progress)
 
-* Tokdar S, Sen R., Zheng, H. and **Zhang, S.**, . Density Discontinuity Regression (In progress)
+* **Zhang, S.**, Ni, Y. and Mallick, B. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
 
-* **Zhang, S.**, Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
+* **Zhang S.**, Michael P. and Lee, J. Bayesian Covariate dependent Factor Model for Feature Interactions in Microbiome Study (In progress)
 
-* Zheng, H., **Zhang, S.**, Sen R., and Tokdar S. Bayesian Semi-Parametric Density Regression with Discontinuity (In progress)
+* Zheng H., **Zhang S.**, Sen R., and Tokdar S. Bayesian Semi-Parametric Density Regression with Discontinuity (In progress)
+
+* Tokdar S, Sen R., Zheng H. and **Zhang S.**, . Density Discontinuity Regression (Submitted)
 
 
 ## PUBLICATIONS
@@ -66,7 +68,7 @@ Graduate Teaching Assistant:
 * Professional membership for the International Society for Bayesian Analysis (ISBA) and American Statistical Association (ASA)
 
 ## MISC
-My free time is mostly split among restful swimming, watching tennis(fan of Novak Djokovic), and playing chess. I played chess since I was 6, and obtained level of Candidate Master before 10. I regularly play chess online to have a mind 'spa'. I also like traveling, and some great landscapes are [here](./another-page.html).  
+My free time is mostly split among restful swimming, watching tennis (fan of Novak Djokovic), and playing chess. I played chess since I was 6, and obtained level of Candidate Master before 10. I regularly play chess online to have a mind 'spa'. I also like traveling, and some great landscapes are [here](./another-page.html).  
 
 
 
