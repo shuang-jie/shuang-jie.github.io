@@ -21,7 +21,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 * Zheng H., **Zhang S.**, Sen R., and Tokdar S. Bayesian Semi-Parametric Density Regression with Discontinuity (In progress)
 
-* Tokdar S, Sen R., Zheng H. and **Zhang S.**, . Density Discontinuity Regression (Submitted)
+* Tokdar S, Sen R., Zheng H. and **Zhang S.**, . [Density Discontinuity Regression](https://arxiv.org/abs/2507.05581) (Submitted)
 
 
 ## PUBLICATIONS
