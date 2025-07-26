@@ -4,10 +4,10 @@ layout: homepage
 
 Welcome! I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) working with [Yang Ni](https://nystat.github.io/yni/) and [Bani K. Mallick](https://sites.google.com/tamu.edu/bani-k-mallick/bio). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0). Before joining UCSC, I completed my Master degree in Statistical Science at [Duke University](https://stat.duke.edu). I’m currently working on
 
-- Bayesian high-dimensional modeling
+- High-dimensional modeling
 - Causal Discovery
 - Bayesian nonparametric modeling
-- Application to biological data
+- Application to high-throughput sequencing data
 <br>
 <br>
 
