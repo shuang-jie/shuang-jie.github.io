@@ -4,7 +4,7 @@ layout: homepage
 
 Welcome! I am currently a Postdoctoral Fellow in the Department of Statistics and Data Sciences at the [University of Texas at Austin](https://stat.utexas.edu/), working with [Dr. Yang Ni](https://nystat.github.io/yni/).
 
-Previously, I was a postdoctoral research associate at [Texas A&M University](https://stat.tamu.edu/) with Dr. Ni and [Dr. Bani K. Mallick](https://sites.google.com/tamu.edu/bani-k-mallick/bio). I received my Ph.D. in Statistical Science from the [University of California Santa Cruz](https://engineering.ucsc.edu/departments/statistics/) in 2024, advised by [Dr. Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home). I earned my M.S. in Statistical Science from [Duke University](https://stat.duke.edu/) and my B.S. in Statistics from the [Southwestern University of Finance and Economics](https://stat.swufe.edu.cn/ENGLISH/About.htm).
+Previously, I was a postdoctoral research associate at [Texas A&M University](https://stat.tamu.edu/) with [Dr. Yang Ni](https://nystat.github.io/yni/) and [Dr. Bani K. Mallick](https://sites.google.com/tamu.edu/bani-k-mallick/bio). I received my Ph.D. in Statistical Science from the [University of California Santa Cruz](https://engineering.ucsc.edu/departments/statistics/) in 2024, advised by [Dr. Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home). I earned my M.S. in Statistical Science from [Duke University](https://stat.duke.edu/) and my B.S. in Statistics from the [Southwestern University of Finance and Economics](https://stat.swufe.edu.cn/ENGLISH/About.htm).
 
 My research interests include:
 - High-dimensional modeling
@@ -19,9 +19,9 @@ My research interests include:
 * **Zhang, S.**, Mallick, B., & Ni, Y. Generalized Bayes Compositional Directed Acyclic Graph. (In progress)
 
 ## Preprints
-* Zheng, H.$^{\star}$, **Zhang, S.**$^{\star}$, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). ($^{\star}$ denotes equal contribution)
+* Zheng, H.# **Zhang, S.**#, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). (# denotes equal contribution)
 * **Zhang, S.**, Patnode, M., & Lee, J. [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://shuang-jie.github.io/files/SJ-P3.pdf).
-* Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). `arxiv:2507.05581`.
+* Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). arxiv:2507.05581.
 
 ## Publications
 * **Zhang, S.**, Shen, Y., Chen, I. A., & Lee, J. (2023). [Bayesian modeling of interaction between features in sparse multivariate count data with application to microbiome study](https://doi.org/10.1214/22-aoas1690). *The Annals of Applied Statistics*, 17(3).
@@ -42,14 +42,14 @@ My research interests include:
 
 ## Software
 * **Sp-BGFM**: R package for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/shuang-jie/SP-BGFM).
-* **Zi-MLN**: R package for the [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/shuang-jie/ZI-MLN) from our *Annals of Applied Statistics* paper.
+* **Zi-MLN**: R package for the [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/shuang-jie/ZI-MLN).
 
 ## Awards and Honors
-* *BNP 14 Travel Award*, BNP 14 UCLA, 2025
-* *SFASA JSM Student Travel Award*, San Francisco Bay Area Chapter of the ASA, 2023
-* *UCSC Dean’s Travel Award*, University of California Santa Cruz, 2023
-* *UCSC Regent Fellowship*, University of California Santa Cruz, 2020
-* *National Student Scholarship*, Southwestern University of Finance and Economics, 2015
+* BNP 14 Travel Award, BNP 14 UCLA, 2025
+* SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the ASA, 2023
+* UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
+* UCSC Regent Fellowship, University of California Santa Cruz, 2020
+* National Student Scholarship, Southwestern University of Finance and Economics, 2015
 
 ## Teaching and Mentoring
 * **Teaching Assistant**
