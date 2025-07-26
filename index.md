@@ -13,7 +13,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 ## PREPRINTS
 
-* Ok, S., **Zhang, S.** and Ni, Y. Bayesian Longitudinal Mircobiome Interaction Analysis (In progress)
+* Ok, S., **Zhang, S.** and Ni, Y. Bayesian Longitudinal Microbiome Interaction Analysis (In progress)
 
 * **Zhang, S.**, Mallick, B. and Ni, Y. Generalized Bayes Compositional Directed Acyclic Graph (In progress)
 
