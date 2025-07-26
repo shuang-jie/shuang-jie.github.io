@@ -48,6 +48,7 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 ## AWARD & FELLOWSHIP
 
+* BNP 14 Travel Award, BNP 14 UCLA, 2025
 * SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2023
 * UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
 * UCSC Regent Fellowship, University of California Santa Cruz, 2020
