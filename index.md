@@ -50,7 +50,6 @@ Welcome! I am currently a postdoctoral researcher associate at [Texas A&M Univer
 
 * SFASA JSM Student Travel Award, San Francisco Bay Area Chapter of the American Statistical Association, 2023
 * UCSC Dean’s Travel Award, University of California Santa Cruz, 2023
-* Department Summer Fellowship, University of California Santa Cruz, 2022
 * UCSC Regent Fellowship, University of California Santa Cruz, 2020
 * National Student Scholarship, Southwestern University of Finance and Economics, 2015
 
