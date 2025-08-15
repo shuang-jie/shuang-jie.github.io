@@ -41,8 +41,8 @@ My research interests include:
     * The 2022 Objective Bayes Methodology Conference, Santa Cruz, CA (Sep 2022)
 
 ## Software
-* **Sp-BGFM**: R package for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/shuang-jie/SP-BGFM).
-* **Zi-MLN**: R package for the [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/shuang-jie/ZI-MLN).
+* **Sp-BGFM**: R code for [Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data](https://github.com/shuang-jie/SP-BGFM).
+* **Zi-MLN**: R code for the [Zero Inflated Multivariate rounded Log Normal Model](https://github.com/shuang-jie/ZI-MLN).
 
 ## Awards and Honors
 * BNP 14 Travel Award, BNP 14 UCLA, 2025
