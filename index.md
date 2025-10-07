@@ -15,11 +15,12 @@ My research interests include:
 <br>
 
 ## In Progress
+* Li, X.#, **Zhang, S.**#, Zhang, Q., and Ma, S. Measurement Error Analysis in Multi-omic Data (In progress)
 * Ok, S., **Zhang, S.**, & Ni, Y. Bayesian Longitudinal Microbiome Interaction Analysis. (In progress)
 * **Zhang, S.**, Mallick, B., & Ni, Y. Generalized Bayes Compositional Directed Acyclic Graph. (In progress)
 
 ## Preprints
-* Zheng, H.# **Zhang, S.**#, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). (# denotes equal contribution)
+* Zheng, H.#, **Zhang, S.**#, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). (# denotes equal contribution)
 * **Zhang, S.**, Patnode, M., & Lee, J. [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://shuang-jie.github.io/files/SJ-P3.pdf).
 * Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). arxiv:2507.05581.
 
