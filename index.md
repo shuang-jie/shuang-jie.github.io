@@ -16,13 +16,14 @@ My research interests include:
 
 ## In Progress
 * Li, X.#, **Zhang, S.**#, Zhang, Q., and Ma, S. Measurement Error Analysis in Multi-omic Data (In progress)
-* Ok, S., **Zhang, S.**, & Ni, Y. Bayesian Longitudinal Microbiome Interaction Analysis. (In progress)
+* **Zhang, S.**, Ok, S., & Ni, Y. Bayesian Longitudinal Microbiome Interaction Analysis. (In progress)
 * **Zhang, S.**, Mallick, B., & Ni, Y. Generalized Bayes Compositional Directed Acyclic Graph. (In progress)
 
 ## Preprints
 * Zheng, H.#, **Zhang, S.**#, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). (# denotes equal contribution)
-* **Zhang, S.**, Patnode, M., & Lee, J. [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://shuang-jie.github.io/files/SJ-P3.pdf).
-* Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). arxiv:2507.05581.
+* **Zhang, S.**, Mallick, B., & Ni, Y. Directed tree structure learning for discrete distributional node.
+* **Zhang, S.**, Patnode, M., & Lee, J. [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://shuang-jie.github.io/files/SJ-P3.pdf). Submitted.
+* Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). arxiv:2507.05581. Submitted. 
 
 ## Publications
 * **Zhang, S.**, Shen, Y., Chen, I. A., & Lee, J. (2023). [Bayesian modeling of interaction between features in sparse multivariate count data with application to microbiome study](https://doi.org/10.1214/22-aoas1690). *The Annals of Applied Statistics*, 17(3).
@@ -53,13 +54,15 @@ My research interests include:
 * National Student Scholarship, Southwestern University of Finance and Economics, 2015
 
 ## Teaching and Mentoring
+* **Lecture**
+    * SDS 322E Elements of Data Science, UT Austin (Spring 2026)
 * **Teaching Assistant**
     * STAT 132 Classical and Bayesian Inference, UC Santa Cruz (Winter 2023)
     * STAT 131 Introduction to Probability Theory, UC Santa Cruz (Summer 2022, Spring 2023)
     * STAT 5 Statistics, UC Santa Cruz (6 quarters, 2019-2022)
     * STA 601 Bayesian Methods and Modern Statistics, Duke University (Fall 2018)
 * **Mentoring**
-    * Seoyeon Ok, Ph.D. student in Statistics, Texas A&M University (Fall 2024 - Present)
+    * Seoyeon Ok, Ph.D. student in Statistics, Texas A&M University (Fall 2024 - Fall 2025)
         * Co-advised with Dr. Yang Ni on the project *Bayesian Longitudinal Microbiome Interaction Analysis*.
 
 ## Academic Service
