@@ -31,10 +31,11 @@ My research interests include:
 
 ## Talks and Posters
 * **Invited Talks**
-    * 2025 International Indian Statistical Association Conference, Lincoln, NE (June 2025)
+    * 2025 International Indian Statistical Association Conference, Lincoln, NE (Jun 2025)
     * University of Nebraska–Lincoln Department of Statistics, Lincoln, NE (Nov 2024)
-    * ISBA Biostatistics and Pharmaceutical Section Webinar Series, Virtual (July 2024)
+    * ISBA Biostatistics and Pharmaceutical Section Webinar Series, Virtual (Jul 2024)
 * **Contributed Talks**
+    * Conference of Texas Statisticians, Austin, TX (Apr 2026)
     * Texas A&M Stat Cafe, College Station, TX (Sep 2024)
     * 2024 Joint Statistical Meetings, Portland, OR (Aug 2024)
     * 2023 Joint Statistical Meetings, Toronto, ON, Canada (Aug 2023)
@@ -61,9 +62,6 @@ My research interests include:
     * STAT 131 Introduction to Probability Theory, UC Santa Cruz (Summer 2022, Spring 2023)
     * STAT 5 Statistics, UC Santa Cruz (6 quarters, 2019-2022)
     * STA 601 Bayesian Methods and Modern Statistics, Duke University (Fall 2018)
-* **Mentoring**
-    * Seoyeon Ok, Ph.D. student in Statistics, Texas A&M University (Fall 2024 - Fall 2025)
-        * Co-advised with Dr. Yang Ni on the project *Bayesian Longitudinal Microbiome Interaction Analysis*.
 
 ## Academic Service
 * **Session Chair**, Contributed Session, 2025 International Indian Statistical Association (IISA) Conference
