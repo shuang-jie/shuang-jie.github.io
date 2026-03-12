@@ -20,7 +20,7 @@ My research interests include:
 * Zhang, S., Mallick, B., & Ni, Y. Generalized Bayes Compositional Directed Acyclic Graph. (In progress)
 
 
-## Publications \& Preprints
+## Publications and Preprints
 * Zheng, H.#, Zhang, S.#, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). (# denotes equal contribution)
 * Zhang, S., Mallick, B., & Ni, Y. (2026+). Directed tree structure learning for discrete distributional node.
 * Zhang, S., Patnode, M., & Lee, J. (2025+). [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://shuang-jie.github.io/files/SJ-P3.pdf). Submitted.
