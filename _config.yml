@@ -24,6 +24,3 @@ nav_items:
   - title: Misc
     url: /misc.html
     icon: fas fa-star
-  - title: Travel
-    url: /another-page.html
-    icon: fas fa-camera
