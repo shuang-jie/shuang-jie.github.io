@@ -2,6 +2,7 @@ title: Shuangjie Zhang
 position: Postdoctoral Fellow
 affiliation: University of Texas at Austin
 email: shuangjie.zhang@austin.utexas.edu
+baseurl: ""
 keywords: minimal academic
 avatar: ./assets/img/Shuangjie-Zhang.jpg
 google_analytics: G-BFJ64HGEP2
@@ -10,3 +11,19 @@ favicon_dark: ./assets/img/1.jpeg
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
+nav_items:
+  - title: Home
+    url: /
+    icon: fas fa-home
+  - title: Research
+    url: /research.html
+    icon: fas fa-flask
+  - title: Teaching
+    url: /teaching.html
+    icon: fas fa-chalkboard-teacher
+  - title: Misc
+    url: /misc.html
+    icon: fas fa-star
+  - title: Travel
+    url: /another-page.html
+    icon: fas fa-camera
