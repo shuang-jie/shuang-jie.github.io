@@ -54,12 +54,14 @@
       {% if site.nav_items %}
       <nav class="page-nav">
         {% for item in site.nav_items %}
+        {% unless item.title == "Travel" or item.url == "/another-page.html" %}
         <a href="{{ item.url | relative_url }}" class="page-nav-link">
           {% if item.icon %}
           <i class="{{ item.icon }}"></i>
           {% endif %}
           <span>{{ item.title }}</span>
         </a>
+        {% endunless %}
         {% endfor %}
       </nav>
       {% endif %}
