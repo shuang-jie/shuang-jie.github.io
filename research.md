@@ -10,8 +10,8 @@ layout: homepage
 ## Publications and Preprints
 * Zheng, H.#, Zhang, S.#, Sen, R., & Tokdar, S. T. [Bayesian Semiparametric Density Regression with Discontinuity](https://shuang-jie.github.io/files/SJ-P4.pdf). (# denotes equal contribution)
 * Zhang, S., Mallick, B., & Ni, Y. (2026+). Structure Learning for Directed Trees with Zero-Inflated Compositional Nodes. Submitted.
-* Zhang, S., Patnode, M., & Lee, J. (2026+). [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://arxiv.org/abs/2603.12352). arXiv:2603.12352. Submitted.
-* Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025+). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). arxiv:2507.05581. Revision.
+* Zhang, S., Patnode, M., & Lee, J. (2025+). [Covariate Dependent Factor Model for Feature Interactions in Microbiome Study](https://arxiv.org/abs/2603.12352). arXiv:2603.12352. Submitted.
+* Tokdar, S. T., Sen, R., Zheng, H., & **Zhang, S**. (2025+). [Density discontinuity regression](https://arxiv.org/abs/2507.05581). arxiv:2507.05581. Under revision.
 * Zhang, S., Shen, Y., Chen, I. A., & Lee, J. (2025). [Sparse Bayesian Group Factor model for feature interactions in multiple count tables data](https://doi.org/10.1080/01621459.2025.2449721). *Journal of the American Statistical Association*, 120(550), 723-736.
 * Zhang, S., Shen, Y., Chen, I. A., & Lee, J. (2023). [Bayesian modeling of interaction between features in sparse multivariate count data with application to microbiome study](https://doi.org/10.1214/22-aoas1690). *The Annals of Applied Statistics*, 17(3).
 
