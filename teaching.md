@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Teaching and Mentoring
-* **Lecture**
+* **Lecturer**
   * SDS 322E Elements of Data Science, UT Austin (Spring 2026)
 * **Teaching Assistant**
   * STAT 132 Classical and Bayesian Inference, UC Santa Cruz (Winter 2023)
