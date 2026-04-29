@@ -27,7 +27,7 @@ layout: homepage
   * 2024 Joint Statistical Meetings, Portland, OR (Aug 2024)
   * 2023 Joint Statistical Meetings, Toronto, ON, Canada (Aug 2023)
 * **Posters**
-  * The 2026 ISBA World Meeting, Nagoya, Japan (June 2025)
+  * The 2026 ISBA World Meeting, Nagoya, Japan (June 2026)
   * 14th International Conference on Bayesian Nonparametrics, Los Angeles, CA (June 2025)
   * The 2022 Objective Bayes Methodology Conference, Santa Cruz, CA (Sep 2022)
 
