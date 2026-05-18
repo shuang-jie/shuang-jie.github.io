@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Teaching and Mentoring
+## Teaching
 * **Lecturer**
   * SDS 322E Elements of Data Science, UT Austin (Spring 2026)
 * **Teaching Assistant**
