@@ -3,6 +3,51 @@
 
 @import "minimal-light";
 
+/* ---------------------------------------------------------------
+   Design tokens. Light values live on :root; only the values that
+   change are redefined for dark mode, matching the theme's own
+   prefers-color-scheme approach in _sass/minimal-light.scss.
+   --------------------------------------------------------------- */
+:root {
+  --card-bg: #ffffff;
+  --card-bg-soft: #f7f8fa;
+  --card-border: #e4e6ea;
+  --card-border-hover: #b9bec7;
+  --card-shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 6px 16px rgba(16, 24, 40, 0.06);
+  --card-shadow-hover: 0 2px 4px rgba(16, 24, 40, 0.06), 0 12px 28px rgba(16, 24, 40, 0.10);
+  --text-strong: #2f3238;
+  --text-muted: #767b85;
+  --accent: #3399cc;
+  --accent-deep: #043361;
+  --chip-bg: #eef2f6;
+  --chip-text: #46505e;
+  --rule: #e4e6ea;
+  --sq-light: #eceff4;
+  --sq-dark: #7f94ad;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --card-bg: #272a36;
+    --card-bg-soft: #2e313f;
+    --card-border: #3a3e4e;
+    --card-border-hover: #5a6076;
+    --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.30), 0 6px 16px rgba(0, 0, 0, 0.28);
+    --card-shadow-hover: 0 2px 4px rgba(0, 0, 0, 0.35), 0 12px 28px rgba(0, 0, 0, 0.38);
+    --text-strong: #eeeff0;
+    --text-muted: #9ba1ad;
+    --accent: rgb(62, 183, 240);
+    --accent-deep: #9fd4f2;
+    --chip-bg: #343846;
+    --chip-text: #c2c7d1;
+    --rule: #3a3e4e;
+    --sq-light: #4a4f61;
+    --sq-dark: #2c3040;
+  }
+}
+
+/* ---------------------------------- page nav ---------------------------------- */
+
 .page-nav {
   display: flex;
   flex-wrap: wrap;
@@ -15,12 +60,520 @@
   align-items: center;
   gap: 0.35rem;
   padding: 0.35rem 0.7rem;
-  border: 1px solid #dadada;
+  border: 1px solid var(--card-border);
   border-radius: 999px;
   text-decoration: none;
   font-size: 0.92rem;
 }
 
 .page-nav-link:hover {
-  border-color: #7a7a7a;
+  border-color: var(--card-border-hover);
+}
+
+/* ---------------------------------- shared ---------------------------------- */
+
+.lede {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  color: var(--text-muted);
+  margin: 0 0 1.6rem;
+}
+
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+}
+
+.card:hover {
+  border-color: var(--card-border-hover);
+  box-shadow: var(--card-shadow-hover);
+}
+
+.footnote {
+  margin: -0.6rem 0 1.6rem;
+  font-size: 0.84rem;
+  color: var(--text-muted);
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.6rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: var(--chip-bg);
+  color: var(--chip-text);
+  font-size: 0.78rem;
+  line-height: 1.5;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+a.chip:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+.chip--status {
+  background: transparent;
+  border: 1px dashed var(--card-border-hover);
+}
+
+/* ------------------------------ research themes ------------------------------ */
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.9rem;
+  margin: 0 0 2rem;
+}
+
+.topic-card {
+  padding: 1rem 1.05rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+}
+
+.topic-card i {
+  font-size: 1.3rem;
+  color: var(--accent);
+}
+
+.topic-card h3 {
+  margin: 0.5rem 0 0.3rem;
+  font-size: 0.98rem;
+  color: var(--text-strong);
+}
+
+.topic-card p {
+  margin: 0;
+  font-size: 0.87rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+}
+
+/* -------------------------------- publications -------------------------------- */
+
+.pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 0 0 2rem;
+}
+
+.pub {
+  display: grid;
+  grid-template-columns: 132px 1fr;
+  gap: 1.05rem;
+  padding: 1rem;
+  align-items: start;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.pub:hover {
+  border-color: var(--card-border-hover);
+  box-shadow: var(--card-shadow-hover);
+}
+
+/* Thumbnail slot. With no <img> inside it renders as a tinted panel with an
+   icon; drop an <img src="..."> in to show a real teaser figure instead. */
+.pub-thumb {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 4 / 3;
+  border-radius: 8px;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--t1, #6fb1d6), var(--t2, #2f6f9f));
+  color: #fff;
+  font-size: 1.6rem;
+}
+
+.pub-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.pub-body h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: var(--text-strong);
+}
+
+.pub-authors {
+  margin: 0;
+  font-size: 0.84rem;
+  color: var(--text-muted);
+}
+
+.pub-summary {
+  margin: 0.45rem 0 0;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.pub-venue {
+  font-style: italic;
+}
+
+@media screen and (max-width: 560px) {
+  .pub {
+    grid-template-columns: 1fr;
+  }
+  .pub-thumb {
+    aspect-ratio: 16 / 7;
+  }
+}
+
+/* ---------------------------------- software ---------------------------------- */
+
+.soft-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.9rem;
+  margin: 0 0 1.5rem;
+}
+
+.soft-card {
+  padding: 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+}
+
+.soft-card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 0.98rem;
+  color: var(--text-strong);
+}
+
+.soft-card h3 i {
+  color: var(--accent);
+  margin-right: 0.35rem;
+}
+
+.soft-card p {
+  margin: 0;
+  font-size: 0.86rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+/* ---------------------------------- teaching ---------------------------------- */
+
+.course {
+  padding: 1.15rem 1.25rem;
+  margin: 0 0 1.6rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-left: 4px solid var(--accent);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+}
+
+.course-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-bottom: 0.15rem;
+}
+
+.course-code {
+  font-weight: 700;
+  color: var(--accent-deep);
+  letter-spacing: 0.02em;
+}
+
+.course-term {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-left: auto;
+}
+
+.course h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.08rem;
+  color: var(--text-strong);
+}
+
+.course p {
+  margin: 0 0 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.fact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  padding: 0.85rem 0;
+  margin: 0.5rem 0 0.9rem;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.fact .fact-label {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: 0.15rem;
+}
+
+.fact .fact-value {
+  font-size: 0.9rem;
+  color: var(--text-strong);
+}
+
+.unit-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.7rem;
+  margin: 0.9rem 0 0;
+}
+
+.unit {
+  padding: 0.75rem 0.85rem;
+  background: var(--card-bg-soft);
+  border-radius: 9px;
+  border: 1px solid var(--card-border);
+}
+
+.unit .unit-no {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.unit h4 {
+  margin: 0.15rem 0 0.3rem;
+  font-size: 0.9rem;
+  color: var(--text-strong);
+}
+
+.unit p {
+  margin: 0;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+.teach-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.teach-list li {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: baseline;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--rule);
+  font-size: 0.9rem;
+}
+
+.teach-list li:last-child {
+  border-bottom: 0;
+}
+
+.teach-list .teach-when {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.teach-list .teach-where {
+  color: var(--text-muted);
+  font-size: 0.84rem;
+}
+
+/* ------------------------------------ misc ------------------------------------ */
+
+.misc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 0 0 1.8rem;
+}
+
+.misc-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+.misc-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--card-shadow-hover);
+}
+
+.misc-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: linear-gradient(135deg, var(--m1, #8fb8d8), var(--m2, #3b6d96));
+}
+
+.misc-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.misc-media i,
+.misc-media svg {
+  font-size: 2.6rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  color: #fff;
+  fill: #fff;
+  opacity: 0.95;
+}
+
+.misc-body {
+  padding: 0.9rem 1rem 1rem;
+}
+
+.misc-body h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+  color: var(--text-strong);
+}
+
+.misc-body h3 i {
+  color: var(--accent);
+  margin-right: 0.4rem;
+}
+
+.misc-body p {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+/* chessboard ------------------------------------------------------------------ */
+
+.chess-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  align-items: center;
+  padding: 1.1rem;
+  margin: 0 0 1.8rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+}
+
+.chessboard {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  width: 232px;
+  flex: 0 0 232px;
+  aspect-ratio: 1;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+}
+
+.chessboard span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.32rem;
+  line-height: 1;
+  user-select: none;
+}
+
+.chessboard .sq-l { background: var(--sq-light); }
+.chessboard .sq-d { background: var(--sq-dark); }
+.chessboard .pc-w { color: #fcfcfd; text-shadow: 0 0 1px #33383f, 0 1px 1px rgba(0,0,0,.45); }
+.chessboard .pc-b { color: #24272e; text-shadow: 0 1px 1px rgba(255,255,255,.25); }
+
+.chess-note {
+  flex: 1 1 220px;
+  min-width: 200px;
+}
+
+.chess-note p {
+  margin: 0 0 0.6rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.chess-note p:last-child {
+  margin-bottom: 0;
+}
+
+/* photo gallery ---------------------------------------------------------------- */
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.85rem;
+  margin: 0 0 1.5rem;
+}
+
+.photo {
+  margin: 0;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid var(--card-border);
+  background: var(--card-bg);
+}
+
+.photo img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.35s ease;
+}
+
+.photo:hover img {
+  transform: scale(1.04);
+}
+
+.photo figcaption {
+  padding: 0.5rem 0.7rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.photo--tall img {
+  height: 320px;
 }
