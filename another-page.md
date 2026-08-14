@@ -89,7 +89,7 @@ layout: homepage
   </figure>
   <figure class="photo">
     <img src="./assets/img/travel/IMG_1111.jpg" alt="Swimming out past the breaking waves">
-    <figcaption>Ocean swim</figcaption>
+    <figcaption>South Beach, Florida</figcaption>
   </figure>
 
 </div>

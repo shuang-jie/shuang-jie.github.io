@@ -55,20 +55,20 @@ layout: homepage
 
 <div class="photo-grid">
   <figure class="photo">
-    <img src="./assets/img/travel/Portland1.jpg" alt="A tall waterfall in a forested gorge">
-    <figcaption>Multnomah Falls, Columbia River Gorge, Oregon</figcaption>
-  </figure>
-  <figure class="photo">
     <img src="./assets/img/travel/IMG_6202.jpg" alt="Sunlight falling through a narrow slot canyon">
     <figcaption>Antelope Canyon, Page, Arizona</figcaption>
   </figure>
   <figure class="photo">
-    <img src="./assets/img/travel/IMG_6288.jpg" alt="A river looping around a sandstone butte seen from the rim">
-    <figcaption>Horseshoe Bend, Page, Arizona</figcaption>
-  </figure>
-  <figure class="photo">
     <img src="./assets/img/travel/IMG_0695.jpg" alt="A bright turquoise lake below forested mountains">
     <figcaption>Blue Moon Valley, Lijiang, Yunnan, China</figcaption>
+  </figure>
+  <figure class="photo">
+    <img src="./assets/img/travel/IMG_8372.jpg" alt="A grass-covered volcanic cone under a blue sky">
+    <figcaption>Omuroyama, Izu, Japan</figcaption>
+  </figure>
+  <figure class="photo">
+    <img src="./assets/img/travel/IMG_0887.jpg" alt="A snow-covered peak above a glacier park">
+    <figcaption>Jade Dragon Snow Mountain, Lijiang, Yunnan, China</figcaption>
   </figure>
 </div>
 
