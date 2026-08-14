@@ -63,8 +63,12 @@ layout: homepage
     <figcaption>Antelope Canyon, Page, Arizona</figcaption>
   </figure>
   <figure class="photo">
-    <img src="./assets/img/travel/IMG_6190.jpg" alt="Wide high-desert plateau under a deep blue sky">
-    <figcaption>High desert, northern Arizona</figcaption>
+    <img src="./assets/img/travel/IMG_6288.jpg" alt="A river looping around a sandstone butte seen from the rim">
+    <figcaption>Horseshoe Bend, Page, Arizona</figcaption>
+  </figure>
+  <figure class="photo">
+    <img src="./assets/img/travel/IMG_0695.jpg" alt="A bright turquoise lake below forested mountains">
+    <figcaption>Blue Moon Valley, Lijiang, Yunnan, China</figcaption>
   </figure>
 </div>
 
