@@ -4,7 +4,7 @@ layout: homepage
 
 ## Research
 
-<p class="lede">I build Bayesian models for high-dimensional, dependent, and non-Gaussian data — with a focus on recovering interpretable structure (interactions, dependence, causal direction) from messy biomedical measurements.</p>
+<p class="lede">I build statistical models for high-dimensional, dependent, and non-Gaussian data — with a focus on recovering interpretable structure (interactions, dependence, causal direction) from messy biomedical measurements.</p>
 
 <div class="topic-grid">
   <div class="topic-card">

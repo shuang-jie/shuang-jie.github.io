@@ -24,7 +24,7 @@ layout: homepage
       <img src="./assets/img/hobbies/tennis1.jpg" alt="Watching a match from the stands at a tennis tournament in Austin">
     </div>
     <div class="misc-body">
-      <h3><svg class="icon-ball" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29" fill="#c8d63f"/><path d="M11 11a30 30 0 0 1 0 42" fill="none" stroke="#ffffff" stroke-width="4"/><path d="M53 11a30 30 0 0 0 0 42" fill="none" stroke="#ffffff" stroke-width="4"/></svg>Tennis</h3>
+      <h3><svg class="icon-ball" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="27" fill="none" stroke="currentColor" stroke-width="6"/><path d="M13 12a30 30 0 0 1 0 40" fill="none" stroke="currentColor" stroke-width="6"/><path d="M51 12a30 30 0 0 0 0 40" fill="none" stroke="currentColor" stroke-width="6"/></svg>Tennis</h3>
       <p>A long-time fan of <a href="https://en.wikipedia.org/wiki/Novak_Djokovic">Novak Djokovic</a> — the return of serve, the elasticity, the refusal to lose from two sets down.</p>
     </div>
   </div>
