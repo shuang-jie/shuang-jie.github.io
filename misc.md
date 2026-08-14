@@ -6,91 +6,25 @@ layout: homepage
 
 <p class="lede">The things I do when I am not fitting models: a chessboard, a swimming pool, and a tennis match on in the background.</p>
 
-<div class="chess-wrap">
-  <div class="chessboard" role="img" aria-label="Chessboard in the starting position">
-    <span class="sq-l pc-b">♜</span>
-    <span class="sq-d pc-b">♞</span>
-    <span class="sq-l pc-b">♝</span>
-    <span class="sq-d pc-b">♛</span>
-    <span class="sq-l pc-b">♚</span>
-    <span class="sq-d pc-b">♝</span>
-    <span class="sq-l pc-b">♞</span>
-    <span class="sq-d pc-b">♜</span>
-    <span class="sq-d pc-b">♟</span>
-    <span class="sq-l pc-b">♟</span>
-    <span class="sq-d pc-b">♟</span>
-    <span class="sq-l pc-b">♟</span>
-    <span class="sq-d pc-b">♟</span>
-    <span class="sq-l pc-b">♟</span>
-    <span class="sq-d pc-b">♟</span>
-    <span class="sq-l pc-b">♟</span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-d"></span>
-    <span class="sq-l"></span>
-    <span class="sq-l pc-w">♟</span>
-    <span class="sq-d pc-w">♟</span>
-    <span class="sq-l pc-w">♟</span>
-    <span class="sq-d pc-w">♟</span>
-    <span class="sq-l pc-w">♟</span>
-    <span class="sq-d pc-w">♟</span>
-    <span class="sq-l pc-w">♟</span>
-    <span class="sq-d pc-w">♟</span>
-    <span class="sq-d pc-w">♜</span>
-    <span class="sq-l pc-w">♞</span>
-    <span class="sq-d pc-w">♝</span>
-    <span class="sq-l pc-w">♛</span>
-    <span class="sq-d pc-w">♚</span>
-    <span class="sq-l pc-w">♝</span>
-    <span class="sq-d pc-w">♞</span>
-    <span class="sq-l pc-w">♜</span>
-  </div>
-  <div class="chess-note">
-    <p><strong><i class="fas fa-chess-knight"></i> Chess</strong> — I have played since I was 6 and earned Candidate Master at 10. These days it is mostly blitz online: a mind spa between MCMC runs.</p>
-    <p>I follow <a href="https://en.wikipedia.org/wiki/Ding_Liren">Ding Liren</a>, China's first World Chess Champion.</p>
-  </div>
-</div>
-
 <div class="misc-grid">
 
   <div class="misc-card">
-    <div class="misc-media" style="--m1:#8fbf5a; --m2:#3f7a2e;">
-      <svg viewBox="0 0 64 64" aria-hidden="true">
-        <circle cx="32" cy="32" r="26" fill="#dbe94f"/>
-        <path d="M12 13a30 30 0 0 1 0 38" fill="none" stroke="#ffffff" stroke-width="3.5"/>
-        <path d="M52 13a30 30 0 0 0 0 38" fill="none" stroke="#ffffff" stroke-width="3.5"/>
-      </svg>
+    <div class="misc-media">
+      <img src="./assets/img/hobbies/chess1.jpg" alt="A chess set in the starting position">
     </div>
     <div class="misc-body">
-      <h3>Tennis</h3>
+      <h3><i class="fas fa-chess-knight"></i>Chess</h3>
+      <p>I have played since I was 6 and earned Candidate Master at 10. These days it is mostly blitz online: a mind spa between MCMC runs. I follow <a href="https://en.wikipedia.org/wiki/Ding_Liren">Ding Liren</a>, China's first World Chess Champion.</p>
+    </div>
+  </div>
+
+
+  <div class="misc-card">
+    <div class="misc-media">
+      <img src="./assets/img/hobbies/tennis1.jpg" alt="Watching a match from the stands at a tennis tournament in Austin">
+    </div>
+    <div class="misc-body">
+      <h3><svg class="icon-ball" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29" fill="#c8d63f"/><path d="M11 11a30 30 0 0 1 0 42" fill="none" stroke="#ffffff" stroke-width="4"/><path d="M53 11a30 30 0 0 0 0 42" fill="none" stroke="#ffffff" stroke-width="4"/></svg>Tennis</h3>
       <p>A long-time fan of <a href="https://en.wikipedia.org/wiki/Novak_Djokovic">Novak Djokovic</a> — the return of serve, the elasticity, the refusal to lose from two sets down.</p>
     </div>
   </div>

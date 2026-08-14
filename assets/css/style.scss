@@ -22,8 +22,6 @@
   --chip-bg: #eef2f6;
   --chip-text: #46505e;
   --rule: #e4e6ea;
-  --sq-light: #eceff4;
-  --sq-dark: #7f94ad;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,8 +39,6 @@
     --chip-bg: #343846;
     --chip-text: #c2c7d1;
     --rule: #3a3e4e;
-    --sq-light: #4a4f61;
-    --sq-dark: #2c3040;
   }
 }
 
@@ -484,64 +480,18 @@ a.chip:hover {
   margin-right: 0.4rem;
 }
 
+/* inline sport glyph sized to the heading, for icons Font Awesome lacks */
+.misc-body h3 .icon-ball {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.13em;
+  margin-right: 0.4rem;
+}
+
 .misc-body p {
   margin: 0;
   font-size: 0.88rem;
   line-height: 1.6;
-}
-
-/* chessboard ------------------------------------------------------------------ */
-
-.chess-wrap {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.25rem;
-  align-items: center;
-  padding: 1.1rem;
-  margin: 0 0 1.8rem;
-  background: var(--card-bg);
-  border: 1px solid var(--card-border);
-  border-radius: 12px;
-}
-
-.chessboard {
-  display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  width: 232px;
-  flex: 0 0 232px;
-  aspect-ratio: 1;
-  border-radius: 6px;
-  overflow: hidden;
-  box-shadow: var(--card-shadow);
-}
-
-.chessboard span {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.32rem;
-  line-height: 1;
-  user-select: none;
-}
-
-.chessboard .sq-l { background: var(--sq-light); }
-.chessboard .sq-d { background: var(--sq-dark); }
-.chessboard .pc-w { color: #fcfcfd; text-shadow: 0 0 1px #33383f, 0 1px 1px rgba(0,0,0,.45); }
-.chessboard .pc-b { color: #24272e; text-shadow: 0 1px 1px rgba(255,255,255,.25); }
-
-.chess-note {
-  flex: 1 1 220px;
-  min-width: 200px;
-}
-
-.chess-note p {
-  margin: 0 0 0.6rem;
-  font-size: 0.9rem;
-  line-height: 1.6;
-}
-
-.chess-note p:last-child {
-  margin-bottom: 0;
 }
 
 /* photo gallery ---------------------------------------------------------------- */
