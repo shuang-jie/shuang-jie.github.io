@@ -46,6 +46,11 @@
   }
 }
 
+/* header contact line: plain text, not a mailto link */
+.header-email {
+  overflow-wrap: anywhere;
+}
+
 /* ---------------------------------- page nav ---------------------------------- */
 
 .page-nav {

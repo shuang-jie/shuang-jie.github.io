@@ -96,7 +96,7 @@ layout: homepage
       <div class="chip-row">
         <span class="chip pub-venue">Journal of the American Statistical Association, 120(550), 723-736</span>
         <a class="chip" href="https://doi.org/10.1080/01621459.2025.2449721"><i class="fas fa-link"></i> DOI</a>
-        <a class="chip" href="https://github.com/shuang-jie/SP-BGFM"><i class="fab fa-github"></i> Code</a>
+        <a class="chip" href="https://shuang-jie.github.io/SP-BGFM/"><i class="fas fa-cube"></i> Sp-BGFM</a>
       </div>
     </div>
   </div>
@@ -110,7 +110,7 @@ layout: homepage
       <div class="chip-row">
         <span class="chip pub-venue">The Annals of Applied Statistics, 17(3)</span>
         <a class="chip" href="https://doi.org/10.1214/22-aoas1690"><i class="fas fa-link"></i> DOI</a>
-        <a class="chip" href="https://github.com/shuang-jie/ZI-MLN"><i class="fab fa-github"></i> Code</a>
+        <a class="chip" href="https://shuang-jie.github.io/ZI-MLN/"><i class="fas fa-cube"></i> Zi-MLN</a>
       </div>
     </div>
   </div>
@@ -133,7 +133,7 @@ layout: homepage
     <h3><i class="fas fa-cube"></i>Sp-BGFM</h3>
     <p>Sparse Bayesian Group Factor Model for Multiple Count Tables.</p>
     <div class="chip-row">
-      <a class="chip" href="https://shuang-jie.github.io/SP-BGFM/"><i class="fas fa-book"></i> Docs</a>
+      <a class="chip" href="https://shuang-jie.github.io/SP-BGFM/"><i class="fas fa-globe"></i> Website</a>
       <a class="chip" href="https://github.com/shuang-jie/SP-BGFM"><i class="fab fa-github"></i> GitHub</a>
     </div>
   </div>
@@ -141,7 +141,7 @@ layout: homepage
     <h3><i class="fas fa-cube"></i>BCAIA</h3>
     <p>Bayesian Covariate-Varying Interaction Analysis for Multivariate Count Data.</p>
     <div class="chip-row">
-      <a class="chip" href="https://shuang-jie.github.io/BCAIA/"><i class="fas fa-book"></i> Docs</a>
+      <a class="chip" href="https://shuang-jie.github.io/BCAIA/"><i class="fas fa-globe"></i> Website</a>
       <a class="chip" href="https://github.com/shuang-jie/BCAIA"><i class="fab fa-github"></i> GitHub</a>
     </div>
   </div>
@@ -149,7 +149,7 @@ layout: homepage
     <h3><i class="fas fa-cube"></i>Zi-MLN</h3>
     <p>Zero-Inflated Multivariate Rounded Log-Normal Model.</p>
     <div class="chip-row">
-      <a class="chip" href="https://shuang-jie.github.io/ZI-MLN/"><i class="fas fa-book"></i> Docs</a>
+      <a class="chip" href="https://shuang-jie.github.io/ZI-MLN/"><i class="fas fa-globe"></i> Website</a>
       <a class="chip" href="https://github.com/shuang-jie/ZI-MLN"><i class="fab fa-github"></i> GitHub</a>
     </div>
   </div>
