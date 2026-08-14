@@ -10,7 +10,7 @@ layout: homepage
 
   <div class="misc-card">
     <div class="misc-media">
-      <img src="./assets/img/hobbies/chess1.jpg" alt="A chess set in the starting position">
+      <img src="./assets/img/hobbies/chess3.jpg" alt="A chess set on a glass board in the starting position">
     </div>
     <div class="misc-body">
       <h3><i class="fas fa-chess-knight"></i>Chess</h3>
