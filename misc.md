@@ -59,7 +59,7 @@ layout: homepage
     <figcaption>Antelope Canyon, Page, Arizona</figcaption>
   </figure>
   <figure class="photo">
-    <img src="./assets/img/travel/IMG_0695.jpg" alt="A bright turquoise lake below forested mountains">
+    <img src="./assets/img/travel/IMG_0628.jpg" alt="Terraced travertine pools stepping down below a snow-capped range">
     <figcaption>Blue Moon Valley, Lijiang, Yunnan, China</figcaption>
   </figure>
   <figure class="photo">
