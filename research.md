@@ -162,19 +162,19 @@ layout: homepage
     </div>
   </div>
   <div class="soft-card">
-    <h3><i class="fas fa-cube"></i>BCAIA</h3>
-    <p>Bayesian Covariate-Varying Interaction Analysis for Multivariate Count Data.</p>
-    <div class="chip-row">
-      <a class="chip" href="https://shuang-jie.github.io/BCAIA/"><i class="fas fa-globe"></i> Website</a>
-      <a class="chip" href="https://github.com/shuang-jie/BCAIA"><i class="fab fa-github"></i> GitHub</a>
-    </div>
-  </div>
-  <div class="soft-card">
     <h3><i class="fas fa-cube"></i>Zi-MLN</h3>
     <p>Zero-Inflated Multivariate Rounded Log-Normal Model.</p>
     <div class="chip-row">
       <a class="chip" href="https://shuang-jie.github.io/ZI-MLN/"><i class="fas fa-globe"></i> Website</a>
       <a class="chip" href="https://github.com/shuang-jie/ZI-MLN"><i class="fab fa-github"></i> GitHub</a>
+    </div>
+  </div>
+  <div class="soft-card">
+    <h3><i class="fas fa-cube"></i>BCAIA</h3>
+    <p>Bayesian Covariate-Varying Interaction Analysis for Multivariate Count Data.</p>
+    <div class="chip-row">
+      <a class="chip" href="https://shuang-jie.github.io/BCAIA/"><i class="fas fa-globe"></i> Website</a>
+      <a class="chip" href="https://github.com/shuang-jie/BCAIA"><i class="fab fa-github"></i> GitHub</a>
     </div>
   </div>
 </div>
