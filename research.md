@@ -37,13 +37,39 @@ layout: homepage
 <div class="pub-list">
 
   <div class="pub">
+    <div class="pub-thumb" style="--t1:#f0b7a4; --t2:#b5533a;"><i class="fas fa-wave-square"></i></div>
+    <div class="pub-body">
+      <h3><a href="https://shuang-jie.github.io/files/SJ-PJ5.pdf">Bayesian Nonparametric Longitudinal Factor Model for Microbiome Counts</a></h3>
+      <p class="pub-authors">Zhang, S., Ok, S., &amp; Ni, Y. (2026+)</p>
+      <p class="pub-summary">A nonparametric factor model for repeated microbiome measurements that tracks how feature interactions evolve over time within each subject.</p>
+      <div class="chip-row">
+        <span class="chip chip--status">Submitted to <em>The Annals of Applied Statistics</em></span>
+        <a class="chip" href="https://shuang-jie.github.io/files/SJ-PJ5.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-thumb" style="--t1:#a9d3a0; --t2:#4a8a3c;"><i class="fas fa-tree"></i></div>
+    <div class="pub-body">
+      <h3><a href="https://shuang-jie.github.io/files/SJ-PJ6.pdf">Phylogeny-Guided Selection of Microbiome Features using Bayesian Prevalence-Aware Multinomial Logit Normal Regression</a></h3>
+      <p class="pub-authors">Zhu, Z., Zhang, S., Tang, X., &amp; Zhang, L. (2026+)</p>
+      <p class="pub-summary">Uses the phylogenetic tree to guide which taxa are selected in a multinomial logit-normal regression, while accounting for how often each taxon is actually observed.</p>
+      <div class="chip-row">
+        <span class="chip chip--status">Submitted to <em>Biometrics</em></span>
+        <a class="chip" href="https://shuang-jie.github.io/files/SJ-PJ6.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
     <div class="pub-thumb" style="--t1:#7aa8d4; --t2:#2c5f92;"><i class="fas fa-sitemap"></i></div>
     <div class="pub-body">
       <h3><a href="https://arxiv.org/abs/2605.03178">Structure Learning for Directed Trees with Zero-Inflated Compositional Nodes</a></h3>
       <p class="pub-authors">Zhang, S., Mallick, B., &amp; Ni, Y. (2026+)</p>
       <p class="pub-summary">Recovers directed tree structure among taxa while respecting two features that break standard methods: excess zeros and the compositional constraint of sequencing counts.</p>
       <div class="chip-row">
-        <span class="chip chip--status">Submitted</span>
+        <span class="chip chip--status">Major revision at <em>Biometrics</em></span>
         <a class="chip" href="https://arxiv.org/abs/2605.03178"><i class="ai ai-arxiv"></i> arXiv:2605.03178</a>
       </div>
     </div>
@@ -68,7 +94,7 @@ layout: homepage
       <p class="pub-authors">Zhang, S., Patnode, M., &amp; Lee, J. (2026+)</p>
       <p class="pub-summary">Lets factor loadings depend on covariates, so estimated interactions between microbial features can shift across host characteristics rather than being held fixed.</p>
       <div class="chip-row">
-        <span class="chip chip--status">Submitted</span>
+        <span class="chip chip--status">Submitted to <em>JRSS Series C</em></span>
         <a class="chip" href="https://arxiv.org/abs/2603.12352"><i class="ai ai-arxiv"></i> arXiv:2603.12352</a>
       </div>
     </div>
@@ -81,7 +107,7 @@ layout: homepage
       <p class="pub-authors">Tokdar, S. T., Sen, R., Zheng, H., &amp; Zhang, S. (2026+)</p>
       <p class="pub-summary">Estimates and tests for a jump in a density at a cutoff — the object of interest in regression-discontinuity style designs.</p>
       <div class="chip-row">
-        <span class="chip chip--status">Submitted</span>
+        <span class="chip chip--status">Submitted to <em>Journal of Applied Economics</em></span>
         <a class="chip" href="https://arxiv.org/abs/2507.05581"><i class="ai ai-arxiv"></i> arXiv:2507.05581</a>
       </div>
     </div>
@@ -121,10 +147,8 @@ layout: homepage
 
 ## In Progress
 
-* Zhang, S., Ok, S., & Ni, Y. Bayesian Longitudinal Modeling of Microbiome Interaction.
 * Zhang, S., Luo, H., Mallick, B., & Ni, Y. Generalized Bayesian Compositional Directed Acyclic Graph.
 * Li, X.#, Zhang, S.#, Zhang, Q., & Ma, S. Measurement Error Analysis in Multi-omic Data.
-* Zhu, Z., Zhang, S., Tang, X., & Zhang, L. Phylogeny-Guided Selection of Microbiome Features using Bayesian Prevalence-Aware Multinomial Logit Normal Regression.
 
 ## Software
 
