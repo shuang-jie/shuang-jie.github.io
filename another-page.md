@@ -59,7 +59,7 @@ layout: homepage
   </figure>
   <figure class="photo">
     <img src="./assets/img/travel/IMG_3414.jpg" alt="A rock pinnacle rising above forested mountains">
-    <figcaption>Mountain overlook</figcaption>
+    <figcaption>Sanqingshan, Jiangxi, China</figcaption>
   </figure>
 
   <figure class="photo">
