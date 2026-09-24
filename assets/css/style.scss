@@ -213,6 +213,19 @@ a.chip:hover {
   display: block;
 }
 
+/* Paper figures come on a white ground: give them an edge so they do not
+   bleed into the card in light mode, and take the glare off in dark mode. */
+.pub-thumb:has(img) {
+  background: #fff;
+  border: 1px solid var(--card-border);
+}
+
+@media (prefers-color-scheme: dark) {
+  .pub-thumb:has(img) img {
+    filter: brightness(0.94) contrast(1.02);
+  }
+}
+
 .pub-body h3 {
   margin: 0 0 0.3rem;
   font-size: 1rem;

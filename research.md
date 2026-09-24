@@ -31,13 +31,10 @@ layout: homepage
 
 ## Publications and Preprints
 
-<!-- To use a real teaser figure, drop an image into assets/img/papers/ and replace
-     the <i> tag inside .pub-thumb with:  <img src="./assets/img/papers/NAME.jpg" alt=""> -->
-
 <div class="pub-list">
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#f0b7a4; --t2:#b5533a;"><i class="fas fa-wave-square"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/longitudinal-factor.png" alt="Posterior mean factor-score trajectories across time points" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://shuang-jie.github.io/files/SJ-PJ5.pdf">Bayesian Nonparametric Longitudinal Factor Model for Microbiome Counts</a></h3>
       <p class="pub-authors">Zhang, S., Ok, S., &amp; Ni, Y. (2026+)</p>
@@ -50,7 +47,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#a9d3a0; --t2:#4a8a3c;"><i class="fas fa-tree"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/phylogeny-selection.png" alt="Posterior means under phylogeny-guided versus independent shrinkage" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://shuang-jie.github.io/files/SJ-PJ6.pdf">Phylogeny-Guided Selection of Microbiome Features using Bayesian Prevalence-Aware Multinomial Logit Normal Regression</a></h3>
       <p class="pub-authors">Zhu, Z., Zhang, S., Tang, X., &amp; Zhang, L. (2026+)</p>
@@ -63,7 +60,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#7aa8d4; --t2:#2c5f92;"><i class="fas fa-sitemap"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/directed-trees.png" alt="Estimated transition matrix between parent and child communities" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://arxiv.org/abs/2605.03178">Structure Learning for Directed Trees with Zero-Inflated Compositional Nodes</a></h3>
       <p class="pub-authors">Zhang, S., Mallick, B., &amp; Ni, Y. (2026+)</p>
@@ -76,7 +73,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#86c1b4; --t2:#2f7d6c;"><i class="fas fa-chart-area"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/density-regression.png" alt="Posterior predictive densities with a jump at the threshold" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://shuang-jie.github.io/files/SJ-P4.pdf">Bayesian Semiparametric Density Regression with Discontinuity</a></h3>
       <p class="pub-authors">Zheng, H.#, Zhang, S.#, Sen, R., &amp; Tokdar, S. T. (2026+)</p>
@@ -88,7 +85,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#c9a3d4; --t2:#7a4b96;"><i class="fas fa-layer-group"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/covariate-factor.png" alt="Covariance between two features varying with a covariate" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://arxiv.org/abs/2603.12352">Covariate Dependent Factor Model for Feature Interactions in Microbiome Study</a></h3>
       <p class="pub-authors">Zhang, S., Patnode, M., &amp; Lee, J. (2026+)</p>
@@ -101,7 +98,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#e0ae82; --t2:#a8622c;"><i class="fas fa-cut"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/density-discontinuity.png" alt="Density estimate with a discontinuity at the vote threshold" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://arxiv.org/abs/2507.05581">Density discontinuity regression</a></h3>
       <p class="pub-authors">Tokdar, S. T., Sen, R., Zheng, H., &amp; Zhang, S. (2026+)</p>
@@ -114,7 +111,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#8fb8e0; --t2:#2f5f9c;"><i class="fas fa-th"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/group-factor.png" alt="Empirical correlation estimates across bacteria and viruses" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://doi.org/10.1080/01621459.2025.2449721">Sparse Bayesian Group Factor model for feature interactions in multiple count tables data</a></h3>
       <p class="pub-authors">Zhang, S., Shen, Y., Chen, I. A., &amp; Lee, J. (2025)</p>
@@ -128,7 +125,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb" style="--t1:#9fc9a8; --t2:#3d7a55;"><i class="fas fa-vials"></i></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/zi-mln.png" alt="Posterior correlation estimates for selected OTUs" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://doi.org/10.1214/22-aoas1690">Bayesian modeling of interaction between features in sparse multivariate count data with application to microbiome study</a></h3>
       <p class="pub-authors">Zhang, S., Shen, Y., Chen, I. A., &amp; Lee, J. (2023)</p>
