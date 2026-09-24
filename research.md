@@ -47,7 +47,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb"><img src="./assets/img/papers/phylogeny-selection.png" alt="Posterior means under phylogeny-guided versus independent shrinkage" loading="lazy"></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/phylogeny-selection.png" alt="Selected local subtree of phylogenetically related genera" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://shuang-jie.github.io/files/SJ-PJ6.pdf">Phylogeny-Guided Selection of Microbiome Features using Bayesian Prevalence-Aware Multinomial Logit Normal Regression</a></h3>
       <p class="pub-authors">Zhu, Z., Zhang, S., Tang, X., &amp; Zhang, L. (2026+)</p>
@@ -60,7 +60,7 @@ layout: homepage
   </div>
 
   <div class="pub">
-    <div class="pub-thumb"><img src="./assets/img/papers/directed-trees.png" alt="Estimated transition matrix between parent and child communities" loading="lazy"></div>
+    <div class="pub-thumb"><img src="./assets/img/papers/directed-trees.png" alt="Learned tree: rectum to feces, vagina to cervix, and an isolated buccal node" loading="lazy"></div>
     <div class="pub-body">
       <h3><a href="https://arxiv.org/abs/2605.03178">Structure Learning for Directed Trees with Zero-Inflated Compositional Nodes</a></h3>
       <p class="pub-authors">Zhang, S., Mallick, B., &amp; Ni, Y. (2026+)</p>
