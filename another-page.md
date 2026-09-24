@@ -84,8 +84,8 @@ layout: homepage
   </figure>
 
   <figure class="photo">
-    <img src="./assets/img/travel/IMG_1772.jpg" alt="A massive moss-covered fallen trunk in an old cypress forest">
-    <figcaption>Ancient cypress forest</figcaption>
+    <img src="./assets/img/travel/IMG_1772.jpg" alt="A massive moss-covered fallen trunk among the redwoods">
+    <figcaption>Redwoods, UC Santa Cruz, California</figcaption>
   </figure>
   <figure class="photo">
     <img src="./assets/img/travel/IMG_1111.jpg" alt="Swimming out past the breaking waves">
