@@ -36,12 +36,12 @@ layout: homepage
   <div class="pub">
     <div class="pub-thumb"><img src="./assets/img/papers/longitudinal-factor.png" alt="Posterior mean factor-score trajectories across time points" loading="lazy"></div>
     <div class="pub-body">
-      <h3><a href="https://shuang-jie.github.io/files/SJ-PJ5.pdf">Bayesian Nonparametric Longitudinal Factor Model for Microbiome Counts</a></h3>
-      <p class="pub-authors">Zhang, S., Ok, S., &amp; Ni, Y. (2026+)</p>
+      <h3><a href="https://arxiv.org/abs/2610.21224">Bayesian Nonparametric Longitudinal Factor Model for Microbiome Counts</a></h3>
+      <p class="pub-authors">Zhang, S., Ok, S., Jayaraman, A., Landrock, K., Ivanov, I., Chapkin, R. S., &amp; Ni, Y. (2026+)</p>
       <p class="pub-summary">A nonparametric factor model for repeated microbiome measurements that tracks how feature interactions evolve over time within each subject.</p>
       <div class="chip-row">
         <span class="chip chip--status">Submitted to <em>The Annals of Applied Statistics</em></span>
-        <a class="chip" href="https://shuang-jie.github.io/files/SJ-PJ5.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+        <a class="chip" href="https://arxiv.org/abs/2610.21224"><i class="ai ai-arxiv"></i> arXiv:2610.21224</a>
       </div>
     </div>
   </div>
@@ -100,7 +100,7 @@ layout: homepage
   <div class="pub">
     <div class="pub-thumb"><img src="./assets/img/papers/density-discontinuity.png" alt="Density estimate with a discontinuity at the vote threshold" loading="lazy"></div>
     <div class="pub-body">
-      <h3><a href="https://arxiv.org/abs/2507.05581">Density discontinuity regression</a></h3>
+      <h3><a href="https://arxiv.org/abs/2507.05581">Density Discontinuity Regression</a></h3>
       <p class="pub-authors">Tokdar, S. T., Sen, R., Zheng, H., &amp; Zhang, S. (2026+)</p>
       <p class="pub-summary">Estimates and tests for a jump in a density at a cutoff — the object of interest in regression-discontinuity style designs.</p>
       <div class="chip-row">
