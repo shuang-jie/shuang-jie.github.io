@@ -4,11 +4,13 @@
 @import "minimal-light";
 
 /* ---------------------------------------------------------------
-   Design tokens. Light values live on :root; only the values that
-   change are redefined for dark mode, matching the theme's own
-   prefers-color-scheme approach in _sass/minimal-light.scss.
+   Design tokens. The site renders light in every browser: colour-scheme
+   pins the UA chrome (scrollbars, form controls) to light, and neither
+   this file nor _sass/minimal-light.scss carries prefers-color-scheme
+   rules, so an OS set to dark still gets the light palette.
    --------------------------------------------------------------- */
 :root {
+  color-scheme: light;
   --card-bg: #ffffff;
   --card-bg-soft: #f7f8fa;
   --card-border: #e4e6ea;
@@ -22,24 +24,6 @@
   --chip-bg: #eef2f6;
   --chip-text: #46505e;
   --rule: #e4e6ea;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --card-bg: #272a36;
-    --card-bg-soft: #2e313f;
-    --card-border: #3a3e4e;
-    --card-border-hover: #5a6076;
-    --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.30), 0 6px 16px rgba(0, 0, 0, 0.28);
-    --card-shadow-hover: 0 2px 4px rgba(0, 0, 0, 0.35), 0 12px 28px rgba(0, 0, 0, 0.38);
-    --text-strong: #eeeff0;
-    --text-muted: #9ba1ad;
-    --accent: rgb(62, 183, 240);
-    --accent-deep: #9fd4f2;
-    --chip-bg: #343846;
-    --chip-text: #c2c7d1;
-    --rule: #3a3e4e;
-  }
 }
 
 /* header contact line: plain text, not a mailto link */
@@ -214,16 +198,10 @@ a.chip:hover {
 }
 
 /* Paper figures come on a white ground: give them an edge so they do not
-   bleed into the card in light mode, and take the glare off in dark mode. */
+   bleed into the white card. */
 .pub-thumb:has(img) {
   background: #fff;
   border: 1px solid var(--card-border);
-}
-
-@media (prefers-color-scheme: dark) {
-  .pub-thumb:has(img) img {
-    filter: brightness(0.94) contrast(1.02);
-  }
 }
 
 .pub-body h3 {
