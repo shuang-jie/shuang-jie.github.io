@@ -49,12 +49,12 @@ layout: homepage
   <div class="pub">
     <div class="pub-thumb"><img src="./assets/img/papers/phylogeny-selection.png" alt="Selected local subtree: Gordonibacter, Senegalimassilia, Ellagibacter, Adlercreutzia" loading="lazy"></div>
     <div class="pub-body">
-      <h3><a href="https://shuang-jie.github.io/files/SJ-PJ6.pdf">Phylogeny-Guided Selection of Microbiome Features using Bayesian Prevalence-Aware Multinomial Logit Normal Regression</a></h3>
+      <h3><a href="https://www.biorxiv.org/content/10.64898/2026.10.28.762580v1">Phylogeny-Guided Global-Local Shrinkage for Microbiome Feature Selection</a></h3>
       <p class="pub-authors">Zhu, Z., Zhang, S., Tang, X., &amp; Zhang, L. (2026+)</p>
-      <p class="pub-summary">Uses the phylogenetic tree to guide which taxa are selected in a multinomial logit-normal regression, while accounting for how often each taxon is actually observed.</p>
+      <p class="pub-summary">A global-local shrinkage prior that borrows strength along the phylogeny, so evolutionarily related taxa are selected together in sparse, compositional count data.</p>
       <div class="chip-row">
         <span class="chip chip--status">Submitted to <em>Biometrics</em></span>
-        <a class="chip" href="https://shuang-jie.github.io/files/SJ-PJ6.pdf"><i class="fas fa-file-pdf"></i> PDF</a>
+        <a class="chip" href="https://www.biorxiv.org/content/10.64898/2026.10.28.762580v1"><i class="ai ai-biorxiv"></i> bioRxiv</a>
       </div>
     </div>
   </div>
