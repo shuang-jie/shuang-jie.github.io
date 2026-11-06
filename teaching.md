@@ -4,7 +4,7 @@ layout: homepage
 
 ## Teaching
 
-<p class="lede">I teach applied, computing-first statistics — students spend class time writing code against real data rather than watching derivations.</p>
+<p class="lede">I teach applied, hands-on data science — students spend class time writing code against real data.</p>
 
 <div class="course">
   <div class="course-head">
