@@ -104,7 +104,7 @@ layout: homepage
       <p class="pub-authors">Tokdar, S. T., Sen, R., Zheng, H., &amp; Zhang, S. (2026+)</p>
       <p class="pub-summary">Estimates and tests for a jump in a density at a cutoff — the object of interest in regression-discontinuity style designs.</p>
       <div class="chip-row">
-        <span class="chip chip--status">Submitted to <em>Journal of Applied Economics</em></span>
+        <span class="chip chip--status">Major revision at <em>Journal of Applied Economics</em></span>
         <a class="chip" href="https://arxiv.org/abs/2507.05581"><i class="ai ai-arxiv"></i> arXiv:2507.05581</a>
       </div>
     </div>
